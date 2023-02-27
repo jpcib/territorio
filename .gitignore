@@ -39,11 +39,11 @@ vignettes/*.pdf
 .Renviron
 
 #data 
-/data/
+#/data/
 
-*.csv
-*.xls
-*.xlsx
+#*.csv
+#*.xls
+#*.xlsx
 
 #output
 
