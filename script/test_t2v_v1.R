@@ -1,10 +1,9 @@
-install.packages("text2vec")
+# install.packages("text2vec")
 library(tidyverse)
 library(text2vec)
-?text2vec
-browseVignettes(package = "text2vec")
+# ?text2vec
+# browseVignettes(package = "text2vec")
 
-library(text2vec)
 library(data.table)
 library(magrittr)
 data("movie_review")
